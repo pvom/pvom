@@ -25,8 +25,8 @@ I build production-grade AI systems — from the orchestration layer that coordi
 
 `Amazon Connect` `Bedrock (Claude)` `Nova Sonic 2` `Lambda` `DynamoDB` `Aurora Serverless` `S3`
 
-### 🦾 Paperclip — Multi-agent control plane
-**The infrastructure layer underneath my projects.** Orchestrates 24 Claude agents across 3 production project instances — cut per-agent context overhead by **96%** through layered skill caching and per-project plugin isolation.
+### 🦾 Multi-agent orchestration layer (built on Paperclip, open source)
+**The infrastructure underneath my projects.** I run 24 Claude agents across 3 production project instances on Paperclip, and designed the layered context optimization — skill caching and per-project plugin isolation — that cut per-agent overhead by **96%**.
 
 ---
 
